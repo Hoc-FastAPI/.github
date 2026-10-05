@@ -9,7 +9,7 @@
 
 **Không gian tài nguyên, bài giảng và đồ án thực chiến Backend API với FastAPI.**
 
-[Tài Liệu Khóa Học](#-tài-nguyên-học-tập) • [Quy Chuẩn Nộp Bài](#-quy-chuẩn-thực-hành--nộp-bài) • [Cộng Đồng Hỗ Trợ](#-kênh-hỗ-trợ)
+[Quy Chuẩn Nộp Bài](#-quy-chuẩn-thực-hành--nộp-bài) • [Tác giả](#-thông-tin-tác-giả)
 
 ---
 
